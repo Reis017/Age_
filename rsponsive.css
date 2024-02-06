@@ -1,0 +1,70 @@
+@media (max-width: 500px) {
+
+    .main-header nav {
+        display: none;
+    }
+
+    header {
+        margin-block-end: 11%;
+    }
+
+    #buti {
+        display: flex;
+        align-items: center;
+    }
+
+    #buti>img {
+        display: block;
+        width: 30px;
+        height: 30px;
+        right: 30%;
+        left: 90%;
+        position: absolute;
+        border-radius: 10%;
+
+    }
+
+    .trans-text-bg {
+        color: #c6f8ff;
+        text-transform: uppercase;
+    }
+
+    .section-1-bg h1 {
+        position: relative;
+        font-size: 5rem;
+        line-height: 5rem;
+    }
+
+    .section-1-bg h1>span {
+        font-size: 4.5rem;
+    }
+
+    .section-1-bg i {
+        top: 11rem;
+    }
+
+
+    .section-2 {
+        justify-content: flex-end;
+
+    }
+
+    .px-1 {
+        padding: 0 0.5rem;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
